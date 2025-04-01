@@ -67,8 +67,7 @@ In short, the client wanted to see **“An analysis of their content categories 
   >- Pie Chart
   >- Bar Chart
   
- - Powerpoint Presentation : [PPT]
-( https://github.com/Sakshi-Srivastava19/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20Analytics%20template%20-%20Task%203_final.pptx)
+ - Powerpoint Presentation : [PPT](https://github.com/Sakshi-Srivastava19/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20Analytics%20TASK%20(sakshi).pptx))
  ## Task - 4
  ### Present to the Client:
  **Present your powerpoint presentation to the client and deliver the insights of your analysis** 
